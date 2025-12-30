@@ -1,2 +1,2 @@
 # kehila
-The Hen Hatzafon Synagogue community web site
+The Orot Shaul veShai Synagogue in Ariel community web site
